@@ -1,0 +1,96 @@
+Page Plugin JavaScript for GLUG timeline,event and messaging(almost similar to news feed including events and messaging)
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+Page plugin HTML for GLUG timeline,event,messaging(almost similar to news feed including events and messaging)
+<div class="fb-page" data-href="https://www.facebook.com/glugdsce/" data-tabs="timeline,events,messages" data-width="500" data-height="800" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/glugdsce/"><a href="https://www.facebook.com/glugdsce/">Glug-Dsce</a></blockquote></div></div>
+
+
+
+THIS IS ALL you NEED , if some changes need to be done refer this : https://developers.facebook.com/docs/plugins/page-plugin
+
+
+
+Page Plugin JavaScript for GLUG timeline(similar to news feed)
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+Page Plugin HTML code for GLUG timeline
+<div class="fb-page" data-href="https://www.facebook.com/glugdsce/" data-tabs="timeline" data-width="500" data-height="800" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/glugdsce/"><a href="https://www.facebook.com/glugdsce/">Glug-Dsce</a></blockquote></div></div>
+
+Page Plugin HTML code for GLUG event
+<div class="fb-page" data-href="https://www.facebook.com/glugdsce/" data-tabs="events" data-width="500" data-height="800" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/glugdsce/"><a href="https://www.facebook.com/glugdsce/">Glug-Dsce</a></blockquote></div></div>
+
+Page Plugin JAVA for GLUG event
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+Like Button HTML code
+<div class="fb-like" data-href="https://www.facebook.com/glugdsce" data-width="10px" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+
+Like button Java Code
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+Share Button HTML code
+<div class="fb-share-button" data-href="https://www.facebook.com/glugdsce" data-layout="button_count"></div>
+
+
+Share button Java code
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+Send Button HTML
+<div class="fb-send" data-href="https://www.facebook.com/glugdsce"></div>
+
+
+Send button Javascript
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+
